@@ -1,0 +1,14 @@
+
+${AnsiColor.GREEN}               ${AnsiColor.DEFAULT}${AnsiColor.YELLOW} .----------------. ${AnsiColor.DEFAULT}${AnsiColor.WHITE} .----------------. ${AnsiColor.DEFAULT}${AnsiColor.GREEN} .----------------. ${AnsiColor.DEFAULT}
+${AnsiColor.GREEN}               ${AnsiColor.DEFAULT}${AnsiColor.YELLOW}| .--------------. |${AnsiColor.DEFAULT}${AnsiColor.WHITE}| .--------------. |${AnsiColor.DEFAULT}${AnsiColor.GREEN}| .--------------. |${AnsiColor.DEFAULT}
+${AnsiColor.GREEN}     .\^/.     ${AnsiColor.DEFAULT}${AnsiColor.YELLOW}| |  _______     | |${AnsiColor.DEFAULT}${AnsiColor.WHITE}| | ____    ____ | |${AnsiColor.DEFAULT}${AnsiColor.GREEN}| |    _______   | |${AnsiColor.DEFAULT}
+${AnsiColor.GREEN}   . |`|/| .   ${AnsiColor.DEFAULT}${AnsiColor.YELLOW}| | |_   __ \    | |${AnsiColor.DEFAULT}${AnsiColor.WHITE}| ||_   \  /   _|| |${AnsiColor.DEFAULT}${AnsiColor.GREEN}| |   /  ___  |  | |${AnsiColor.DEFAULT}
+${AnsiColor.GREEN}   |\|\|'|/|   ${AnsiColor.DEFAULT}${AnsiColor.YELLOW}| |   | |__) |   | |${AnsiColor.DEFAULT}${AnsiColor.WHITE}| |  |   \/   |  | |${AnsiColor.DEFAULT}${AnsiColor.GREEN}| |  |  (__ \_|  | |${AnsiColor.DEFAULT}
+${AnsiColor.GREEN}.--'-\`|/-''--.${AnsiColor.DEFAULT}${AnsiColor.YELLOW}| |   |  __ /    | |${AnsiColor.DEFAULT}${AnsiColor.WHITE}| |  | |\  /| |  | |${AnsiColor.DEFAULT}${AnsiColor.GREEN}| |   '.___`-.   | |${AnsiColor.DEFAULT}
+${AnsiColor.GREEN} \`-._\|./.-'/ ${AnsiColor.DEFAULT}${AnsiColor.YELLOW}| |  _| |  \ \_  | |${AnsiColor.DEFAULT}${AnsiColor.WHITE}| | _| |_\/_| |_ | |${AnsiColor.DEFAULT}${AnsiColor.GREEN}| |  |`\____) |  | |${AnsiColor.DEFAULT}
+${AnsiColor.GREEN}  >`-._|/.-'<  ${AnsiColor.DEFAULT}${AnsiColor.YELLOW}| | |____| |___| | |${AnsiColor.DEFAULT}${AnsiColor.WHITE}| ||_____||_____|| |${AnsiColor.DEFAULT}${AnsiColor.GREEN}| |  |_______.'  | |${AnsiColor.DEFAULT}
+${AnsiColor.GREEN} '~|/~~|~~\|~' ${AnsiColor.DEFAULT}${AnsiColor.YELLOW}| |              | |${AnsiColor.DEFAULT}${AnsiColor.WHITE}| |              | |${AnsiColor.DEFAULT}${AnsiColor.GREEN}| |              | |${AnsiColor.DEFAULT}
+${AnsiColor.GREEN}       |       ${AnsiColor.DEFAULT}${AnsiColor.YELLOW}| '--------------' |${AnsiColor.DEFAULT}${AnsiColor.WHITE}| '--------------' |${AnsiColor.DEFAULT}${AnsiColor.GREEN}| '--------------' |${AnsiColor.DEFAULT}
+${AnsiColor.GREEN}               ${AnsiColor.DEFAULT}${AnsiColor.YELLOW} '----------------' ${AnsiColor.DEFAULT}${AnsiColor.WHITE} '----------------' ${AnsiColor.DEFAULT}${AnsiColor.GREEN} '----------------' ${AnsiColor.DEFAULT}
+
+${AnsiColor.GREEN} ::    Running Spring Boot       ${spring-boot.formatted-version} ::${AnsiColor.DEFAULT}
